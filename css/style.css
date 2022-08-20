@@ -1,5 +1,5 @@
-/* Navigation styles */
 
+/* Navigation styles */
 .inline-block{
     display: inline-block;
     vertical-align: top;
@@ -8,6 +8,7 @@
 .logo{
     width: 23%;
     padding: 1%;
+    text-align: center;
 }
 
 nav{
@@ -18,4 +19,15 @@ nav{
 ul{
     width: 50%;
     margin-left: auto;
+}
+
+/*Hero Image*/
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
 }
