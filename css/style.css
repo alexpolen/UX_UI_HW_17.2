@@ -27,8 +27,7 @@ ul{
     padding: 25px;
 }
 img{
-    width: auto;
-    max-height: 100%;
+    height: auto;
 }
 
 .content{
