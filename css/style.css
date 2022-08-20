@@ -39,12 +39,12 @@ img{
 
 /*Footer*/
 footer{
-    background-color: #373738;
+    background-color: #ffffff;
     padding:5px;
 }
 ul{
     display: inline-block;
     vertical-align: top;
     padding-top: 5px;
-  padding-left: 50%;
+    padding-left: 50%;
 }
